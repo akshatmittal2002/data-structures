@@ -12,6 +12,6 @@ Contains implementation of some basic data structures in c++ :
 ***
 
 The corresponding folder of each data structure contains a main.cpp file to test working of data structure.
-<br><br>
+<br>
 
 `Note` : The main code (i.e., the file in which `class` of the data structure is defined.) is present in [Source Code](./SourceCode).
