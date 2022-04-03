@@ -10,7 +10,7 @@ Contains implementation of some basic data structures in c++ :
 8. [Red Black Tree](./RedBlackTree) (RBT)
 
 ***
-<br>
+
 The corresponding folder of each data structure contains a main.cpp file to test working of data structure.
 <br><br>
 
