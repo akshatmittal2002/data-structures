@@ -1,13 +1,13 @@
 # Data-Structures
 Contains implementation of some basic data structures in c++ :
-1. Array
-2. Stack
-3. Queue
-4. Circular Queue
-5. Singly Linked List
-6. Doubly Linked List
-7. Binary Search Tree
-8. Red Black Tree
+1. [Array](./ArrayADT)
+2. [Stack](./StackADT)
+3. [Queue](./QueueADT)
+4. [Circular Queue](./CircularQueueADT)
+5. [Singly Linked List](./SinglyLinkedListADT) (SLL)
+6. [Doubly Linked List](./DoublyLinkedListADT) (DLL)
+7. [Binary Search Tree](./BinarySearchTree) (BST)
+8. [Red Black Tree](./RedBlackTree) (RBT)
 
 ***
 <br>
